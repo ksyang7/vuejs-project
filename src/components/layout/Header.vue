@@ -23,7 +23,7 @@
           <b-dropdown-item href="#">ES</b-dropdown-item>
           <b-dropdown-item href="#">RU</b-dropdown-item>
           <b-dropdown-item href="#">FA</b-dropdown-item>
-        </b-nav-item-dropdown>
+        </b-nav-item-dropdown> 
 
         <b-nav-item-dropdown right>
           <!-- Using 'button-content' slot -->

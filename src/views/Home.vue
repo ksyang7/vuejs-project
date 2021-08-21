@@ -7,7 +7,7 @@
 
         <select class="form-control" v-model="region" @change="changeRegin">
             <option :key="i" :value="d.v" v-for="(d,i) in options">{{d.t}}</option>
-        </select>
+        </select> 
 
         <table class="table table-bordered" v-show="tableShow">
             <tr :key="i" v-for="(d,i) in options">
